@@ -81,5 +81,5 @@ theme: tufu
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/sy2729/sy2729.github.io.git
+  repository: git@github.com:sy2729/sy2729.github.io.git
   branch: master

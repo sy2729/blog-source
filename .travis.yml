@@ -23,7 +23,7 @@ install:
 # 执行脚本，先hexo clean 再 hexo generate，会使用hexo的同学应该不陌生。
 script:
   - hexo clean
-  - hexo generate
+  # - hexo generate
 
 # 上面的脚本执行成功之后执行以下脚本进行deploy
 after_success:

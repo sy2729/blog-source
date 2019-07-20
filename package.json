@@ -3,12 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.8.0"
+    "version": "3.9.0"
   },
   "dependencies": {
     "aplayer": "^1.6.0",
-    "dplayer": "^1.22.0",
-    "hexo": "^3.8.0",
+    "hexo": "^3.9.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
@@ -22,7 +21,6 @@
     "hexo-renderer-sass": "^0.4.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.2",
-    "hexo-tag-aplayer": "^2.0.7",
-    "hexo-tag-netease-music": "^1.0.3"
+    "hexo-tag-aplayer": "^3.0.4"
   }
 }

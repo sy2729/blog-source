@@ -72,10 +72,12 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tufu
-#plugins:
- # - hexo-server
- # - hexo-tag-netease-music
+theme: maupassant
+aplayer:
+  meting: true
+# plugins:
+#  - hexo-server
+#  - hexo-tag-netease-music
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
